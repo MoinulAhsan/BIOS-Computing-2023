@@ -1,6 +1,6 @@
 #' Trimmed mean function
 #'
-#' @param x -A numeric value-
+#' @param x --A numeric value-
 #' @description
 #' trimmed mean function that calculates the mean of a numeric vector, ignoring the smallest and largest values
 #'
